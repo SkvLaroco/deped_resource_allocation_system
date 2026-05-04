@@ -1,0 +1,311 @@
+School_ID,School_Name,City,Year,Academic_Enrollees,TVL_Enrollees,Total_Enrollees
+QC001,Batasan Hills National High School,Quezon City,2016,1250,537,1787
+QC001,Batasan Hills National High School,Quezon City,2017,1803,774,2577
+QC001,Batasan Hills National High School,Quezon City,2018,2216,950,3166
+QC001,Batasan Hills National High School,Quezon City,2019,2546,1092,3638
+QC001,Batasan Hills National High School,Quezon City,2020,2446,1049,3495
+QC001,Batasan Hills National High School,Quezon City,2021,2531,1085,3616
+QC001,Batasan Hills National High School,Quezon City,2022,2574,1104,3678
+QC001,Batasan Hills National High School,Quezon City,2023,2794,1198,3992
+QC001,Batasan Hills National High School,Quezon City,2024,2853,1223,4076
+QC001,Batasan Hills National High School,Quezon City,2025,3013,1292,4305
+QC002,Commonwealth High School,Quezon City,2016,1189,560,1749
+QC002,Commonwealth High School,Quezon City,2017,1707,804,2511
+QC002,Commonwealth High School,Quezon City,2018,2162,1018,3180
+QC002,Commonwealth High School,Quezon City,2019,2394,1128,3522
+QC002,Commonwealth High School,Quezon City,2020,2263,1066,3329
+QC002,Commonwealth High School,Quezon City,2021,2363,1113,3476
+QC002,Commonwealth High School,Quezon City,2022,2557,1204,3761
+QC002,Commonwealth High School,Quezon City,2023,2590,1220,3810
+QC002,Commonwealth High School,Quezon City,2024,2843,1339,4182
+QC002,Commonwealth High School,Quezon City,2025,2949,1388,4337
+QC003,Quezon City High School,Quezon City,2016,1235,481,1716
+QC003,Quezon City High School,Quezon City,2017,1841,717,2558
+QC003,Quezon City High School,Quezon City,2018,2187,851,3038
+QC003,Quezon City High School,Quezon City,2019,2401,935,3336
+QC003,Quezon City High School,Quezon City,2020,2316,901,3217
+QC003,Quezon City High School,Quezon City,2021,2474,963,3437
+QC003,Quezon City High School,Quezon City,2022,2604,1013,3617
+QC003,Quezon City High School,Quezon City,2023,2802,1091,3893
+QC003,Quezon City High School,Quezon City,2024,2918,1136,4054
+QC003,Quezon City High School,Quezon City,2025,3011,1172,4183
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2016,624,336,960
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2017,895,483,1378
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2018,1122,605,1727
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2019,1235,665,1900
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2020,1208,651,1859
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2021,1212,654,1866
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2022,1305,703,2008
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2023,1333,719,2052
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2024,1410,760,2170
+QC004,Eulogio Rodriguez Jr. High School,Quezon City,2025,1478,796,2274
+QC005,Carlos P. Garcia High School,Quezon City,2016,511,314,825
+QC005,Carlos P. Garcia High School,Quezon City,2017,721,442,1163
+QC005,Carlos P. Garcia High School,Quezon City,2018,898,551,1449
+QC005,Carlos P. Garcia High School,Quezon City,2019,1023,627,1650
+QC005,Carlos P. Garcia High School,Quezon City,2020,970,595,1565
+QC005,Carlos P. Garcia High School,Quezon City,2021,990,608,1598
+QC005,Carlos P. Garcia High School,Quezon City,2022,1047,643,1690
+QC005,Carlos P. Garcia High School,Quezon City,2023,1118,686,1804
+QC005,Carlos P. Garcia High School,Quezon City,2024,1217,747,1964
+QC005,Carlos P. Garcia High School,Quezon City,2025,1248,766,2014
+QC006,Manuel A. Roxas High School,Quezon City,2016,600,296,896
+QC006,Manuel A. Roxas High School,Quezon City,2017,882,435,1317
+QC006,Manuel A. Roxas High School,Quezon City,2018,1051,518,1569
+QC006,Manuel A. Roxas High School,Quezon City,2019,1187,585,1772
+QC006,Manuel A. Roxas High School,Quezon City,2020,1186,585,1771
+QC006,Manuel A. Roxas High School,Quezon City,2021,1187,585,1772
+QC006,Manuel A. Roxas High School,Quezon City,2022,1261,622,1883
+QC006,Manuel A. Roxas High School,Quezon City,2023,1352,666,2018
+QC006,Manuel A. Roxas High School,Quezon City,2024,1426,703,2129
+QC006,Manuel A. Roxas High School,Quezon City,2025,1484,731,2215
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2016,626,209,835
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2017,906,302,1208
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2018,1113,372,1485
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2019,1236,412,1648
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2020,1245,415,1660
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2021,1267,423,1690
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2022,1308,437,1745
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2023,1419,474,1893
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2024,1462,488,1950
+QC007,Don Alejandro Roces Sr. Science-Tech High School,Quezon City,2025,1574,525,2099
+QC008,Ismael Mathay Sr. High School,Quezon City,2016,205,137,342
+QC008,Ismael Mathay Sr. High School,Quezon City,2017,291,194,485
+QC008,Ismael Mathay Sr. High School,Quezon City,2018,366,244,610
+QC008,Ismael Mathay Sr. High School,Quezon City,2019,400,268,668
+QC008,Ismael Mathay Sr. High School,Quezon City,2020,393,263,656
+QC008,Ismael Mathay Sr. High School,Quezon City,2021,409,273,682
+QC008,Ismael Mathay Sr. High School,Quezon City,2022,424,283,707
+QC008,Ismael Mathay Sr. High School,Quezon City,2023,446,298,744
+QC008,Ismael Mathay Sr. High School,Quezon City,2024,489,326,815
+QC008,Ismael Mathay Sr. High School,Quezon City,2025,496,331,827
+QC009,Carlos L. Albert High School,Quezon City,2016,203,115,318
+QC009,Carlos L. Albert High School,Quezon City,2017,289,164,453
+QC009,Carlos L. Albert High School,Quezon City,2018,368,208,576
+QC009,Carlos L. Albert High School,Quezon City,2019,414,234,648
+QC009,Carlos L. Albert High School,Quezon City,2020,391,220,611
+QC009,Carlos L. Albert High School,Quezon City,2021,391,220,611
+QC009,Carlos L. Albert High School,Quezon City,2022,425,240,665
+QC009,Carlos L. Albert High School,Quezon City,2023,469,265,734
+QC009,Carlos L. Albert High School,Quezon City,2024,477,269,746
+QC009,Carlos L. Albert High School,Quezon City,2025,511,288,799
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2016,236,123,359
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2017,350,181,531
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2018,431,223,654
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2019,476,246,722
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2020,452,233,685
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2021,472,244,716
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2022,488,252,740
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2023,529,274,803
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2024,555,286,841
+QC010,Dr. Josefa Jara Martinez High School,Quezon City,2025,596,308,904
+MNL001,Manila Science High School,Manila,2016,1466,414,1880
+MNL001,Manila Science High School,Manila,2017,2113,596,2709
+MNL001,Manila Science High School,Manila,2018,2553,721,3274
+MNL001,Manila Science High School,Manila,2019,2974,839,3813
+MNL001,Manila Science High School,Manila,2020,2859,807,3666
+MNL001,Manila Science High School,Manila,2021,2822,796,3618
+MNL001,Manila Science High School,Manila,2022,3075,868,3943
+MNL001,Manila Science High School,Manila,2023,3265,921,4186
+MNL001,Manila Science High School,Manila,2024,3322,937,4259
+MNL001,Manila Science High School,Manila,2025,3597,1015,4612
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2016,196,161,357
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2017,275,225,500
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2018,328,269,597
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2019,372,306,678
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2020,353,289,642
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2021,381,312,693
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2022,405,333,738
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2023,430,352,782
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2024,436,357,793
+MNL002,Arroceros Forest Park Elementary (SHS Annex),Manila,2025,448,367,815
+MNL003,Teodora Alonzo High School,Manila,2016,606,373,979
+MNL003,Teodora Alonzo High School,Manila,2017,819,502,1321
+MNL003,Teodora Alonzo High School,Manila,2018,1034,634,1668
+MNL003,Teodora Alonzo High School,Manila,2019,1123,689,1812
+MNL003,Teodora Alonzo High School,Manila,2020,1129,693,1822
+MNL003,Teodora Alonzo High School,Manila,2021,1153,708,1861
+MNL003,Teodora Alonzo High School,Manila,2022,1185,727,1912
+MNL003,Teodora Alonzo High School,Manila,2023,1287,789,2076
+MNL003,Teodora Alonzo High School,Manila,2024,1352,830,2182
+MNL003,Teodora Alonzo High School,Manila,2025,1387,851,2238
+MNL004,Tondo High School,Manila,2016,1100,798,1898
+MNL004,Tondo High School,Manila,2017,1543,1118,2661
+MNL004,Tondo High School,Manila,2018,1939,1405,3344
+MNL004,Tondo High School,Manila,2019,2186,1584,3770
+MNL004,Tondo High School,Manila,2020,2041,1479,3520
+MNL004,Tondo High School,Manila,2021,2099,1520,3619
+MNL004,Tondo High School,Manila,2022,2334,1691,4025
+MNL004,Tondo High School,Manila,2023,2432,1762,4194
+MNL004,Tondo High School,Manila,2024,2511,1820,4331
+MNL004,Tondo High School,Manila,2025,2634,1909,4543
+CAL001,Caloocan High School,Caloocan,2016,997,665,1662
+CAL001,Caloocan High School,Caloocan,2017,1426,951,2377
+CAL001,Caloocan High School,Caloocan,2018,1783,1190,2973
+CAL001,Caloocan High School,Caloocan,2019,1945,1298,3243
+CAL001,Caloocan High School,Caloocan,2020,1874,1250,3124
+CAL001,Caloocan High School,Caloocan,2021,1897,1265,3162
+CAL001,Caloocan High School,Caloocan,2022,2095,1398,3493
+CAL001,Caloocan High School,Caloocan,2023,2175,1451,3626
+CAL001,Caloocan High School,Caloocan,2024,2368,1580,3948
+CAL001,Caloocan High School,Caloocan,2025,2466,1644,4110
+CAL002,Maypajo National High School,Caloocan,2016,477,347,824
+CAL002,Maypajo National High School,Caloocan,2017,697,505,1202
+CAL002,Maypajo National High School,Caloocan,2018,835,605,1440
+CAL002,Maypajo National High School,Caloocan,2019,926,671,1597
+CAL002,Maypajo National High School,Caloocan,2020,937,679,1616
+CAL002,Maypajo National High School,Caloocan,2021,936,679,1615
+CAL002,Maypajo National High School,Caloocan,2022,994,721,1715
+CAL002,Maypajo National High School,Caloocan,2023,1077,781,1858
+CAL002,Maypajo National High School,Caloocan,2024,1128,818,1946
+CAL002,Maypajo National High School,Caloocan,2025,1134,822,1956
+CAL003,Sangandaan High School,Caloocan,2016,468,369,837
+CAL003,Sangandaan High School,Caloocan,2017,665,524,1189
+CAL003,Sangandaan High School,Caloocan,2018,823,647,1470
+CAL003,Sangandaan High School,Caloocan,2019,931,732,1663
+CAL003,Sangandaan High School,Caloocan,2020,894,704,1598
+CAL003,Sangandaan High School,Caloocan,2021,930,732,1662
+CAL003,Sangandaan High School,Caloocan,2022,943,741,1684
+CAL003,Sangandaan High School,Caloocan,2023,1021,803,1824
+CAL003,Sangandaan High School,Caloocan,2024,1064,836,1900
+CAL003,Sangandaan High School,Caloocan,2025,1145,901,2046
+MRK001,Marikina High School,Marikina,2016,1101,593,1694
+MRK001,Marikina High School,Marikina,2017,1589,856,2445
+MRK001,Marikina High School,Marikina,2018,1955,1053,3008
+MRK001,Marikina High School,Marikina,2019,2159,1164,3323
+MRK001,Marikina High School,Marikina,2020,2078,1120,3198
+MRK001,Marikina High School,Marikina,2021,2210,1191,3401
+MRK001,Marikina High School,Marikina,2022,2293,1235,3528
+MRK001,Marikina High School,Marikina,2023,2500,1347,3847
+MRK001,Marikina High School,Marikina,2024,2566,1383,3949
+MRK001,Marikina High School,Marikina,2025,2600,1400,4000
+MRK002,Parang High School,Marikina,2016,613,377,990
+MRK002,Parang High School,Marikina,2017,879,539,1418
+MRK002,Parang High School,Marikina,2018,1080,663,1743
+MRK002,Parang High School,Marikina,2019,1199,735,1934
+MRK002,Parang High School,Marikina,2020,1109,681,1790
+MRK002,Parang High School,Marikina,2021,1155,709,1864
+MRK002,Parang High School,Marikina,2022,1213,744,1957
+MRK002,Parang High School,Marikina,2023,1305,800,2105
+MRK002,Parang High School,Marikina,2024,1336,820,2156
+MRK002,Parang High School,Marikina,2025,1423,873,2296
+PSG001,Pasig City Science High School,Pasig,2016,687,268,955
+PSG001,Pasig City Science High School,Pasig,2017,1008,392,1400
+PSG001,Pasig City Science High School,Pasig,2018,1218,474,1692
+PSG001,Pasig City Science High School,Pasig,2019,1355,527,1882
+PSG001,Pasig City Science High School,Pasig,2020,1348,525,1873
+PSG001,Pasig City Science High School,Pasig,2021,1380,537,1917
+PSG001,Pasig City Science High School,Pasig,2022,1435,559,1994
+PSG001,Pasig City Science High School,Pasig,2023,1541,600,2141
+PSG001,Pasig City Science High School,Pasig,2024,1558,607,2165
+PSG001,Pasig City Science High School,Pasig,2025,1640,639,2279
+PSG002,Sta. Lucia High School,Pasig,2016,226,151,377
+PSG002,Sta. Lucia High School,Pasig,2017,321,214,535
+PSG002,Sta. Lucia High School,Pasig,2018,400,267,667
+PSG002,Sta. Lucia High School,Pasig,2019,427,286,713
+PSG002,Sta. Lucia High School,Pasig,2020,426,284,710
+PSG002,Sta. Lucia High School,Pasig,2021,433,289,722
+PSG002,Sta. Lucia High School,Pasig,2022,472,315,787
+PSG002,Sta. Lucia High School,Pasig,2023,481,322,803
+PSG002,Sta. Lucia High School,Pasig,2024,528,352,880
+PSG002,Sta. Lucia High School,Pasig,2025,523,349,872
+TGG001,Fort Bonifacio High School,Taguig,2016,1202,516,1718
+TGG001,Fort Bonifacio High School,Taguig,2017,1716,736,2452
+TGG001,Fort Bonifacio High School,Taguig,2018,2060,883,2943
+TGG001,Fort Bonifacio High School,Taguig,2019,2279,977,3256
+TGG001,Fort Bonifacio High School,Taguig,2020,2301,987,3288
+TGG001,Fort Bonifacio High School,Taguig,2021,2262,970,3232
+TGG001,Fort Bonifacio High School,Taguig,2022,2466,1057,3523
+TGG001,Fort Bonifacio High School,Taguig,2023,2626,1126,3752
+TGG001,Fort Bonifacio High School,Taguig,2024,2714,1164,3878
+TGG001,Fort Bonifacio High School,Taguig,2025,2861,1227,4088
+TGG002,Hagonoy National High School,Taguig,2016,574,352,926
+TGG002,Hagonoy National High School,Taguig,2017,780,479,1259
+TGG002,Hagonoy National High School,Taguig,2018,992,608,1600
+TGG002,Hagonoy National High School,Taguig,2019,1074,659,1733
+TGG002,Hagonoy National High School,Taguig,2020,1045,642,1687
+TGG002,Hagonoy National High School,Taguig,2021,1085,666,1751
+TGG002,Hagonoy National High School,Taguig,2022,1133,695,1828
+TGG002,Hagonoy National High School,Taguig,2023,1207,740,1947
+TGG002,Hagonoy National High School,Taguig,2024,1295,795,2090
+TGG002,Hagonoy National High School,Taguig,2025,1297,796,2093
+LPS001,Las Piñas National High School,Las Piñas,2016,1177,663,1840
+LPS001,Las Piñas National High School,Las Piñas,2017,1672,941,2613
+LPS001,Las Piñas National High School,Las Piñas,2018,1950,1097,3047
+LPS001,Las Piñas National High School,Las Piñas,2019,2192,1234,3426
+LPS001,Las Piñas National High School,Las Piñas,2020,2120,1193,3313
+LPS001,Las Piñas National High School,Las Piñas,2021,2253,1268,3521
+LPS001,Las Piñas National High School,Las Piñas,2022,2398,1350,3748
+LPS001,Las Piñas National High School,Las Piñas,2023,2550,1435,3985
+LPS001,Las Piñas National High School,Las Piñas,2024,2588,1456,4044
+LPS001,Las Piñas National High School,Las Piñas,2025,2666,1501,4167
+LPS002,Almanza National High School,Las Piñas,2016,575,384,959
+LPS002,Almanza National High School,Las Piñas,2017,813,542,1355
+LPS002,Almanza National High School,Las Piñas,2018,1024,683,1707
+LPS002,Almanza National High School,Las Piñas,2019,1119,746,1865
+LPS002,Almanza National High School,Las Piñas,2020,1037,692,1729
+LPS002,Almanza National High School,Las Piñas,2021,1112,742,1854
+LPS002,Almanza National High School,Las Piñas,2022,1151,768,1919
+LPS002,Almanza National High School,Las Piñas,2023,1251,835,2086
+LPS002,Almanza National High School,Las Piñas,2024,1330,887,2217
+LPS002,Almanza National High School,Las Piñas,2025,1323,883,2206
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2016,1071,578,1649
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2017,1563,842,2405
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2018,1894,1021,2915
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2019,2154,1160,3314
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2020,2090,1126,3216
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2021,2070,1115,3185
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2022,2267,1222,3489
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2023,2358,1271,3629
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2024,2501,1347,3848
+PRQ001,Dr. Arcadio Santos National High School,Parañaque,2025,2676,1441,4117
+PRQ002,San Antonio National High School,Parañaque,2016,536,389,925
+PRQ002,San Antonio National High School,Parañaque,2017,777,564,1341
+PRQ002,San Antonio National High School,Parañaque,2018,950,689,1639
+PRQ002,San Antonio National High School,Parañaque,2019,1041,755,1796
+PRQ002,San Antonio National High School,Parañaque,2020,1052,762,1814
+PRQ002,San Antonio National High School,Parañaque,2021,1065,772,1837
+PRQ002,San Antonio National High School,Parañaque,2022,1113,806,1919
+PRQ002,San Antonio National High School,Parañaque,2023,1217,882,2099
+PRQ002,San Antonio National High School,Parañaque,2024,1259,912,2171
+PRQ002,San Antonio National High School,Parañaque,2025,1305,945,2250
+MNT001,Muntinlupa National High School,Muntinlupa,2016,1001,614,1615
+MNT001,Muntinlupa National High School,Muntinlupa,2017,1493,916,2409
+MNT001,Muntinlupa National High School,Muntinlupa,2018,1842,1130,2972
+MNT001,Muntinlupa National High School,Muntinlupa,2019,2010,1232,3242
+MNT001,Muntinlupa National High School,Muntinlupa,2020,1971,1209,3180
+MNT001,Muntinlupa National High School,Muntinlupa,2021,1983,1216,3199
+MNT001,Muntinlupa National High School,Muntinlupa,2022,2063,1265,3328
+MNT001,Muntinlupa National High School,Muntinlupa,2023,2191,1344,3535
+MNT001,Muntinlupa National High School,Muntinlupa,2024,2317,1421,3738
+MNT001,Muntinlupa National High School,Muntinlupa,2025,2505,1536,4041
+MNT002,Cupang National High School,Muntinlupa,2016,208,165,373
+MNT002,Cupang National High School,Muntinlupa,2017,297,235,532
+MNT002,Cupang National High School,Muntinlupa,2018,352,277,629
+MNT002,Cupang National High School,Muntinlupa,2019,393,310,703
+MNT002,Cupang National High School,Muntinlupa,2020,376,296,672
+MNT002,Cupang National High School,Muntinlupa,2021,399,315,714
+MNT002,Cupang National High School,Muntinlupa,2022,430,338,768
+MNT002,Cupang National High School,Muntinlupa,2023,444,350,794
+MNT002,Cupang National High School,Muntinlupa,2024,470,371,841
+MNT002,Cupang National High School,Muntinlupa,2025,477,376,853
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2016,667,315,982
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2017,954,450,1404
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2018,1165,549,1714
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2019,1303,614,1917
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2020,1194,562,1756
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2021,1272,600,1872
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2022,1326,625,1951
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2023,1461,689,2150
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2024,1517,715,2232
+VAL001,Valenzuela City School of Mathematics and Science,Valenzuela,2025,1590,749,2339
+VAL002,Polo National High School,Valenzuela,2016,511,419,930
+VAL002,Polo National High School,Valenzuela,2017,750,614,1364
+VAL002,Polo National High School,Valenzuela,2018,887,727,1614
+VAL002,Polo National High School,Valenzuela,2019,1035,848,1883
+VAL002,Polo National High School,Valenzuela,2020,997,817,1814
+VAL002,Polo National High School,Valenzuela,2021,980,802,1782
+VAL002,Polo National High School,Valenzuela,2022,1084,888,1972
+VAL002,Polo National High School,Valenzuela,2023,1129,925,2054
+VAL002,Polo National High School,Valenzuela,2024,1170,958,2128
+VAL002,Polo National High School,Valenzuela,2025,1257,1030,2287
