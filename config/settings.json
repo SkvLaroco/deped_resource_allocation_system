@@ -1,0 +1,9 @@
+{
+    "max_upload_size": 5,
+    "session_timeout": 30,
+    "forecast_periods": 5,
+    "auto_backup": false,
+    "email_notifications": false,
+    "maintenance_mode": false,
+    "debug_mode": false
+}
