@@ -1,0 +1,141 @@
+2026-03-30 19:39:07 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:39:08 - __main__ - INFO - Loaded config: Class Size=40, Academic Ratio=0.65, Sections per Teacher=1.5
+2026-03-30 19:39:08 - __main__ - INFO - Loading enrollment dataset
+2026-03-30 19:39:08 - __main__ - INFO - Loaded 10 rows from CSV
+2026-03-30 19:39:08 - __main__ - ERROR - Data validation error: Missing required column: Total_Enrollees
+2026-03-30 19:39:34 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:39:34 - __main__ - INFO - Loaded config: Class Size=40, Academic Ratio=0.65, Sections per Teacher=1.5
+2026-03-30 19:39:34 - __main__ - INFO - Loading enrollment dataset
+2026-03-30 19:39:34 - __main__ - INFO - Loaded 10 rows from CSV
+2026-03-30 19:39:34 - __main__ - INFO - Dataset validation passed
+2026-03-30 19:39:34 - __main__ - INFO - Data prepared: 10 valid records
+2026-03-30 19:39:34 - __main__ - INFO - Training Prophet forecasting model
+2026-03-30 19:39:34 - __main__ - INFO - Model training completed successfully
+2026-03-30 19:39:34 - __main__ - INFO - Computing model accuracy (MAPE) on historical data
+2026-03-30 19:39:34 - __main__ - INFO - Model MAPE: 7.75% | Accuracy: 92.25%
+2026-03-30 19:39:34 - __main__ - INFO - Accuracy metrics saved to forecast_accuracy.json
+2026-03-30 19:39:34 - __main__ - INFO - Generating forecast for years: [np.int32(2026), np.int32(2027), np.int32(2028)] (3 years)
+2026-03-30 19:39:34 - __main__ - INFO - Exporting forecast data to CSV
+2026-03-30 19:39:34 - __main__ - INFO - Forecast CSV exported successfully
+2026-03-30 19:39:34 - __main__ - INFO - Combined historical and forecast data exported
+2026-03-30 19:39:34 - __main__ - INFO - Attempting to generate PDF report
+2026-03-30 19:39:35 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:39:35 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:39:35 - generate_report - INFO - Loaded 3 rows of forecast data
+2026-03-30 19:39:35 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:39:35 - generate_report - INFO - Building PDF document
+2026-03-30 19:39:35 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:39:35 - __main__ - INFO - PDF report generated successfully
+2026-03-30 19:39:35 - __main__ - INFO - Forecast generation process completed successfully
+2026-03-30 19:45:33 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:45:33 - __main__ - INFO - Loaded config: Class Size=40, Academic Ratio=0.65, Sections per Teacher=1.5
+2026-03-30 19:45:33 - __main__ - INFO - Loading enrollment dataset
+2026-03-30 19:45:33 - __main__ - INFO - Loaded 10 rows from CSV
+2026-03-30 19:45:33 - __main__ - INFO - Dataset validation passed
+2026-03-30 19:45:33 - __main__ - INFO - Data prepared: 10 valid records
+2026-03-30 19:45:33 - __main__ - INFO - Training Prophet forecasting model
+2026-03-30 19:45:34 - __main__ - INFO - Model training completed successfully
+2026-03-30 19:45:34 - __main__ - INFO - Computing model accuracy (MAPE) on historical data
+2026-03-30 19:45:34 - __main__ - INFO - Model MAPE: 7.75% | Accuracy: 92.25%
+2026-03-30 19:45:34 - __main__ - INFO - Accuracy metrics saved to forecast_accuracy.json
+2026-03-30 19:45:34 - __main__ - INFO - Generating forecast for years: [np.int32(2026), np.int32(2027), np.int32(2028)] (3 years)
+2026-03-30 19:45:34 - __main__ - INFO - Exporting forecast data to CSV
+2026-03-30 19:45:34 - __main__ - INFO - Forecast CSV exported successfully
+2026-03-30 19:45:34 - __main__ - INFO - Combined historical and forecast data exported
+2026-03-30 19:45:34 - __main__ - INFO - Attempting to generate PDF report
+2026-03-30 19:45:34 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:45:34 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:45:34 - generate_report - INFO - Loaded 3 rows of forecast data
+2026-03-30 19:45:34 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:45:34 - generate_report - INFO - Building PDF document
+2026-03-30 19:45:34 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:45:34 - __main__ - INFO - PDF report generated successfully
+2026-03-30 19:45:34 - __main__ - INFO - Forecast generation process completed successfully
+2026-03-30 19:50:46 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:50:46 - __main__ - INFO - Loaded config: Class Size=40, Academic Ratio=0.65, Sections per Teacher=1.5
+2026-03-30 19:50:46 - __main__ - INFO - Loading enrollment dataset
+2026-03-30 19:50:46 - __main__ - INFO - Loaded 10 rows from CSV
+2026-03-30 19:50:46 - __main__ - INFO - Dataset validation passed
+2026-03-30 19:50:46 - __main__ - INFO - Data prepared: 10 valid records
+2026-03-30 19:50:46 - __main__ - INFO - Training Prophet forecasting model
+2026-03-30 19:50:46 - __main__ - INFO - Model training completed successfully
+2026-03-30 19:50:46 - __main__ - INFO - Computing model accuracy (MAPE) on historical data
+2026-03-30 19:50:46 - __main__ - INFO - Model MAPE: 7.75% | Accuracy: 92.25%
+2026-03-30 19:50:46 - __main__ - INFO - Accuracy metrics saved to forecast_accuracy.json
+2026-03-30 19:50:46 - __main__ - INFO - Generating forecast for years: [np.int32(2026), np.int32(2027), np.int32(2028)] (3 years)
+2026-03-30 19:50:46 - __main__ - INFO - Exporting forecast data to CSV
+2026-03-30 19:50:46 - __main__ - INFO - Forecast CSV exported successfully
+2026-03-30 19:50:46 - __main__ - INFO - Combined historical and forecast data exported
+2026-03-30 19:50:46 - __main__ - INFO - Attempting to generate PDF report
+2026-03-30 19:50:46 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:50:46 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:50:46 - generate_report - INFO - Loaded 3 rows of forecast data
+2026-03-30 19:50:46 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:50:46 - generate_report - INFO - Building PDF document
+2026-03-30 19:50:46 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:50:46 - __main__ - INFO - PDF report generated successfully
+2026-03-30 19:50:46 - __main__ - INFO - Forecast generation process completed successfully
+2026-03-30 19:51:42 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:51:42 - __main__ - INFO - Config loaded: class_size=40, academic_ratio=0.65, sections_per_teacher=1.5, forecast_years=3
+2026-03-30 19:51:42 - __main__ - INFO - Per-school CSV detected — running per-school forecasting
+2026-03-30 19:51:42 - __main__ - INFO - Forecasting for 31 schools
+2026-03-30 19:51:51 - __main__ - INFO - Per-school forecast saved: 93 rows across 31 schools
+2026-03-30 19:51:51 - __main__ - INFO - NCR total forecast (aggregated from schools) saved to forecast.csv
+2026-03-30 19:51:51 - __main__ - INFO - NCR_Total_Enrollees.csv derived from per-school data
+2026-03-30 19:51:51 - __main__ - INFO - Accuracy: MAPE=6.98%, Accuracy=93.02%
+2026-03-30 19:51:51 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:51:51 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:51:51 - generate_report - INFO - Loaded 3 rows of forecast data
+2026-03-30 19:51:51 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:51:51 - generate_report - INFO - Building PDF document
+2026-03-30 19:51:51 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:51:51 - __main__ - INFO - PDF report generated
+2026-03-30 19:51:51 - __main__ - INFO - Forecast generation completed successfully
+2026-03-30 19:52:40 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:52:40 - __main__ - INFO - Config loaded: class_size=1, academic_ratio=0, sections_per_teacher=0.1, forecast_years=1
+2026-03-30 19:52:40 - __main__ - INFO - Per-school CSV detected — running per-school forecasting
+2026-03-30 19:52:40 - __main__ - INFO - Forecasting for 31 schools
+2026-03-30 19:52:49 - __main__ - INFO - Per-school forecast saved: 31 rows across 31 schools
+2026-03-30 19:52:49 - __main__ - INFO - NCR total forecast (aggregated from schools) saved to forecast.csv
+2026-03-30 19:52:49 - __main__ - INFO - NCR_Total_Enrollees.csv derived from per-school data
+2026-03-30 19:52:49 - __main__ - INFO - Accuracy: MAPE=6.98%, Accuracy=93.02%
+2026-03-30 19:52:49 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:52:49 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:52:49 - generate_report - INFO - Loaded 1 rows of forecast data
+2026-03-30 19:52:49 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:52:49 - generate_report - INFO - Building PDF document
+2026-03-30 19:52:49 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:52:49 - __main__ - INFO - PDF report generated
+2026-03-30 19:52:49 - __main__ - INFO - Forecast generation completed successfully
+2026-03-30 19:53:31 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:53:31 - __main__ - INFO - Config loaded: class_size=1, academic_ratio=0, sections_per_teacher=0.1, forecast_years=1
+2026-03-30 19:53:31 - __main__ - INFO - Per-school CSV detected — running per-school forecasting
+2026-03-30 19:53:31 - __main__ - INFO - Forecasting for 31 schools
+2026-03-30 19:53:39 - __main__ - INFO - Per-school forecast saved: 31 rows across 31 schools
+2026-03-30 19:53:39 - __main__ - INFO - NCR total forecast (aggregated from schools) saved to forecast.csv
+2026-03-30 19:53:39 - __main__ - INFO - NCR_Total_Enrollees.csv derived from per-school data
+2026-03-30 19:53:39 - __main__ - INFO - Accuracy: MAPE=6.98%, Accuracy=93.02%
+2026-03-30 19:53:39 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:53:39 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:53:39 - generate_report - INFO - Loaded 1 rows of forecast data
+2026-03-30 19:53:39 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:53:39 - generate_report - INFO - Building PDF document
+2026-03-30 19:53:39 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:53:39 - __main__ - INFO - PDF report generated
+2026-03-30 19:53:39 - __main__ - INFO - Forecast generation completed successfully
+2026-03-30 19:54:01 - __main__ - INFO - Starting forecast generation process
+2026-03-30 19:54:01 - __main__ - INFO - Config loaded: class_size=1, academic_ratio=0, sections_per_teacher=0.1, forecast_years=1
+2026-03-30 19:54:01 - __main__ - INFO - Per-school CSV detected — running per-school forecasting
+2026-03-30 19:54:01 - __main__ - INFO - Forecasting for 31 schools
+2026-03-30 19:54:09 - __main__ - INFO - Per-school forecast saved: 31 rows across 31 schools
+2026-03-30 19:54:09 - __main__ - INFO - NCR total forecast (aggregated from schools) saved to forecast.csv
+2026-03-30 19:54:09 - __main__ - INFO - NCR_Total_Enrollees.csv derived from per-school data
+2026-03-30 19:54:09 - __main__ - INFO - Accuracy: MAPE=6.98%, Accuracy=93.02%
+2026-03-30 19:54:09 - generate_report - INFO - Starting PDF report generation
+2026-03-30 19:54:09 - generate_report - INFO - Loading forecast data from CSV
+2026-03-30 19:54:09 - generate_report - INFO - Loaded 1 rows of forecast data
+2026-03-30 19:54:09 - generate_report - INFO - Creating PDF document: forecast_report.pdf
+2026-03-30 19:54:09 - generate_report - INFO - Building PDF document
+2026-03-30 19:54:09 - generate_report - INFO - PDF report generated successfully: forecast_report.pdf
+2026-03-30 19:54:09 - __main__ - INFO - PDF report generated
+2026-03-30 19:54:09 - __main__ - INFO - Forecast generation completed successfully
